@@ -5,6 +5,22 @@ Forgotten is a 3D action-adventure RPG like Dark Souls where players play as a f
 
 ### How to Play
 
+Below are the default controls:
+- W Key: Move forward
+-	A Key: Move left
+- S Key: Move backward
+-	D Key: Move right
+-	Backwards + Space Bar: Dodge
+-	Left Mouse Button: Attack
+-	Middle Mouse Button: Lock-on
+-	R Key: Heal
+-	F Key: Interact with the rest point
+-	Escape/P Button: Open the pause menu
+
 ### Winning and Losing
 
-Assets can be found [here](https://github.com/isaacmayernik/ForgottenAssets)
+For the player to win, they must defeat the Golem boss. Defeating the boss allows the player to reach the next rest point, which is the end of the game.
+
+To lose, players must die during combat by reaching zero health. Death is not permanent, as players will respawn at their last save. Thus, players can learn from their mistakes and try again.
+
+Assets can be found [here](https://github.com/isaacmayernik/ForgottenAssets) or [here](https://github.com/isaacmayernik/Forgotten/blob/main/Forgotten%20Build%201.0/Forgotten.zip)
