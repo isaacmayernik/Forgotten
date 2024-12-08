@@ -3,6 +3,8 @@ There is NO WebGL Build. Epic Games and subsequently Unreal Engine stopped suppo
 
 Within this repo you can find the Post Mortem PDF, the executable folder "Forgotten Build 1.0.zip", and the Unreal project source "Forgotten.zip".
 
+[Here](https://youtu.be/PGd8BNCph8w?si=ilkPblXzjUZRUcL_) is the trailer.
+
 ---
 
 If these do not work they are contained within this google drive as well. Please contact me if none of them work.
