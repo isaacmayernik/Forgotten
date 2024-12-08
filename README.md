@@ -1,5 +1,5 @@
 # Forgotten
-Forgotten is a 3D action-adventure RPG like Dark Souls where players play as a fox and traverse a forest with various enemies. Players must defeat the tutorial boss.
+Forgotten is a 3D action-adventure RPG like Dark Souls where players play as a fox and traverse a forest with various enemies. Players must defeat the tutorial boss. [Here](https://youtu.be/PGd8BNCph8w?si=ilkPblXzjUZRUcL_) is the trailer.
 
 ### This repo contains different builds for Frogbound, developed by Isaac Mayernik.
 
@@ -23,4 +23,4 @@ For the player to win, they must defeat the Golem boss. Defeating the boss allow
 
 To lose, players must die during combat by reaching zero health. Death is not permanent, as players will respawn at their last save. Thus, players can learn from their mistakes and try again.
 
-Assets can be found [here](https://github.com/isaacmayernik/ForgottenAssets) or [here](https://github.com/isaacmayernik/Forgotten/blob/main/Forgotten%20Build%201.0/Forgotten.zip)
+Assets can be found [here](https://github.com/isaacmayernik/ForgottenAssets) or [in this zipped Unreal project](https://github.com/isaacmayernik/Forgotten/blob/main/Forgotten%20Build%201.0/Forgotten.zip). Feel free to use anything inside.
