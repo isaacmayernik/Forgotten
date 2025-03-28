@@ -26,4 +26,4 @@ For the player to win, they must defeat the Golem boss. Defeating the boss allow
 
 To lose, players must die during combat by reaching zero health. Death is not permanent, as players will respawn at their last save. Thus, players can learn from their mistakes and try again.
 
-Assets can be found [here](https://github.com/isaacmayernik/ForgottenAssets) or [in this zipped Unreal project](https://github.com/isaacmayernik/Forgotten/blob/main/Forgotten%20Build%201.0/Forgotten.zip). Feel free to use anything inside.
+Assets can be found [here](https://github.com/isaacmayernik/ForgottenAssets). Feel free to use anything inside.
